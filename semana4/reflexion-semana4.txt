@@ -1,0 +1,9 @@
+Node.js es importante porque permite crear herramientas tecnológicas libres y accesibles para muchas personas. 
+Las comunidades pueden desarrollar aplicaciones sin depender de grandes empresas. 
+También facilita la creación de plataformas colaborativas y proyectos sociales. 
+Las tecnologías abiertas ayudan al aprendizaje y permiten compartir conocimientos entre desarrolladores.
+Además, cualquier persona puede modificar y mejorar el software según sus necesidades. 
+impulsa la innovación y fortalece la participación ciudadana. 
+Gracias a Node.js se pueden construir servidores y aplicaciones web modernas. 
+Las iniciativas comunitarias pueden crear soluciones digitales económicas y eficientes. 
+El acceso libre a estas herramientas ayuda al crecimiento tecnológico de la sociedad.
