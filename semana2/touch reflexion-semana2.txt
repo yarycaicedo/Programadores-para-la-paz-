@@ -5,5 +5,5 @@ Además, muchos entornos de desarrollo y servidores funcionan principalmente med
 Saber usar la terminal facilita tareas como instalar programas, ejecutar proyectos y
 usar herramientas de control de versiones como Git. 
 También ayuda a automatizar procesos repetitivos y mejorar la productividad.
-En proyectos grandes, una buena organización de archivos es clave para mantener el orden y encontrar información fácilmente. 
+Para proyectos grandes, una buena organización de archivos es clave para mantener el orden y encontrar información fácilmente. 
 Por eso, aprender a usar la terminal es una habilidad básica e importante en el desarrollo de software.
