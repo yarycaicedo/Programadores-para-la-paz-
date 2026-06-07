@@ -1,0 +1,19 @@
+Reflexión - Semana 8
+
+¿Por qué la seguridad digital es importante para proteger plataformas
+tecnológicas que usan comunidades o procesos participativos?
+
+La seguridad digital es fundamental para proteger las plataformas comunitarias
+porque estas manejan información sensible de ciudadanos que confían en que
+sus datos serán tratados con responsabilidad y respeto.
+Cuando una plataforma no tiene medidas de seguridad adecuadas, puede ser
+vulnerable a ataques que expongan datos personales, alteren información
+o interrumpan el servicio, afectando directamente la participación ciudadana.
+Proteger las credenciales, usar conexiones seguras y limitar el acceso a
+información sensible son prácticas básicas que fortalecen la confianza de
+la comunidad en la plataforma digital.
+Además, en procesos participativos como votaciones, reportes o propuestas
+comunitarias, la integridad de los datos es esencial para garantizar que
+los resultados sean verídicos y confiables.
+Una plataforma segura no solo protege datos sino que también protege la
+democracia digital y la confianza entre ciudadanos e instituciones.

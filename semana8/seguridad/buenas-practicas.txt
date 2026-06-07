@@ -1,0 +1,13 @@
+Buenas prácticas básicas de seguridad digital
+
+1. Proteger contraseñas
+Usar contraseñas fuertes que combinen letras, números y símbolos,
+y cambiarlas periódicamente para evitar accesos no autorizados.
+
+2. No compartir credenciales
+Nunca compartir contraseñas o claves de acceso con otras personas,
+ni guardarlas en archivos públicos o repositorios de GitHub.
+
+3. Mantener software actualizado
+Actualizar regularmente el sistema operativo y las aplicaciones para
+corregir vulnerabilidades de seguridad conocidas.

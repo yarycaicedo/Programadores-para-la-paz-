@@ -1,0 +1,21 @@
+Buenas prácticas de seguridad para plataformas comunitarias - Semana 8
+
+1. No exponer datos personales
+No publicar información privada de los ciudadanos como nombres, cédulas,
+teléfonos o direcciones en rutas públicas de la plataforma.
+
+2. Proteger credenciales
+Usar contraseñas fuertes y no guardar claves en archivos públicos o
+repositorios de GitHub. Nunca compartir credenciales con personas no autorizadas.
+
+3. Usar conexiones seguras
+Implementar HTTPS para proteger la comunicación entre el cliente y el servidor,
+evitando que terceros intercepten la información transmitida.
+
+4. Registrar accesos
+Mantener un registro de quién accede a la plataforma y cuándo, para detectar
+accesos no autorizados y responder rápidamente ante incidentes de seguridad.
+
+5. Limitar acceso a información sensible
+Restringir el acceso a rutas y datos sensibles solo a usuarios autorizados,
+usando middleware de autenticación y roles de usuario bien definidos.

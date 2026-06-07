@@ -1,0 +1,23 @@
+Información del sistema - Semana 8
+
+Comando: uname -a
+Resultado obtenido:
+MINGW64_NT-10.0-26200 DESKTOP-O7C2QCS 3.6.7-fb42d713.x86_64 2026-03-29 11:44 UTC x86_64 Msys
+
+Este comando muestra información completa del sistema operativo, incluyendo
+el nombre del sistema, el nombre del equipo, la versión del kernel, la fecha
+de compilación y la arquitectura del procesador.
+
+Comando: whoami
+Resultado obtenido:
+USUARIO
+
+Este comando muestra el nombre del usuario que está ejecutando la sesión
+actual en el sistema.
+
+¿Por qué es útil conocer esta información cuando se administra un servidor?
+Es importante conocer esta información porque permite identificar el sistema
+operativo y la versión que está corriendo el servidor, lo cual ayuda a
+detectar vulnerabilidades, aplicar actualizaciones de seguridad correctas
+y verificar que el entorno de trabajo es el adecuado para ejecutar la
+plataforma comunitaria de forma segura y estable.
