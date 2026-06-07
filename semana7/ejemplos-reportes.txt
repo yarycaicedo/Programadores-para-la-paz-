@@ -1,0 +1,13 @@
+Ejemplos de reportes ciudadanos - Semana 7
+
+Ejemplo 1:
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público del parque principal de la comunidad."
+}
+
+Ejemplo 2:
+{
+  "tipo": "Ambiente",
+  "descripcion": "Acumulación de residuos en una zona comunitaria cerca de la escuela."
+}

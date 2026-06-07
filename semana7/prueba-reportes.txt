@@ -1,0 +1,31 @@
+Prueba de reportes - Semana 7
+
+Se envió una petición POST a http://localhost:3000/reportes con el siguiente JSON:
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público"
+}
+
+El servidor respondió con:
+{
+  "mensaje": "Reporte registrado",
+  "reporte": {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+}
+
+Luego se consultó la ruta GET http://localhost:3000/reportes y el servidor
+respondió con la lista de reportes registrados:
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+
+Al consultar GET /reportes el servidor devuelve todos los reportes guardados
+en memoria durante la sesión. Si el servidor se reinicia, la lista vuelve
+a estar vacía porque los datos se almacenan en un array en memoria.
