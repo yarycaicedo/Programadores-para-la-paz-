@@ -1,0 +1,20 @@
+Prueba de la API - Semana 6
+
+Se envió una petición POST a http://localhost:3000/registro con el siguiente JSON:
+{
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+El servidor respondió con:
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+El servidor recibió correctamente los datos enviados en el cuerpo de la petición
+usando req.body y los devolvió organizados en formato JSON. Esto demuestra que
+express.json() permite leer los datos enviados por el cliente de forma estructurada.
+
+

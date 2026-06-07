@@ -1,0 +1,19 @@
+Ejemplo de incidencia comunitaria - Semana 6
+
+JSON enviado por un ciudadano para reportar una incidencia:
+
+{
+  "tipo": "Iluminación pública",
+  "descripcion": "La comunidad reporta que una lámpara del parque no funciona desde hace varios días."
+}
+
+El servidor respondió con:
+{
+  "mensaje": "Incidencia registrada",
+  "tipo": "Iluminación pública",
+  "descripcion": "La comunidad reporta que una lámpara del parque no funciona desde hace varios días."
+}
+
+Este ejemplo muestra cómo un ciudadano puede enviar información estructurada
+al servidor para registrar un problema comunitario. La ruta /incidencia recibe
+los datos, los procesa con req.body y confirma el registro con una respuesta clara.
