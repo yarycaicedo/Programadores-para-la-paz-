@@ -1,0 +1,21 @@
+Reflexión de la Semana 9
+
+Es importante que las plataformas tecnológicas que usan las comunidades funcionen de manera 
+estable y segura en un servidor porque de ello depende que los ciudadanos puedan acceder 
+a la información y servicios en el momento que los necesitan. Una plataforma que falla 
+constantemente pierde la confianza de la comunidad y puede dejar sin atención situaciones 
+que requieren respuesta oportuna.
+
+La estabilidad de un servidor implica monitorear su ejecución, registrar errores mediante 
+logs y aplicar medidas de seguridad que protejan tanto la información como los procesos 
+activos. Un servidor bien configurado garantiza que los datos de la comunidad estén 
+protegidos y que el servicio esté disponible cuando se necesita.
+
+Desde la perspectiva comunitaria, una plataforma segura genera confianza y permite que 
+más personas participen sin temor a que su información sea expuesta. El uso de puertos 
+correctamente configurados, el control de acceso y el monitoreo constante son prácticas 
+esenciales para mantener la continuidad operativa.
+
+Finalmente, comprender cómo funciona un servidor ayuda a tomar mejores decisiones al 
+momento de construir herramientas digitales para la comunidad, asegurando que sean 
+confiables, accesibles y capaces de sostenerse en el tiempo con responsabilidad y cuidado.
