@@ -1,0 +1,23 @@
+Iteración - Semana 10
+
+1. ¿Qué 2 tareas del backlog harías primero?
+
+Tarea 1: Registrar una incidencia comunitaria.
+Tarea 2: Recibir una alerta en Telegram cuando se registre un nuevo reporte.
+
+2. ¿Por qué son las más importantes?
+
+Son las más importantes porque permiten que la comunidad pueda reportar situaciones
+de forma organizada y que el equipo coordinador reciba notificación inmediata.
+Sin estas dos funciones el sistema no cumple su propósito básico de participación
+y seguimiento comunitario.
+
+3. ¿Qué significa para ti que una tarea esté terminada?
+
+Una tarea está terminada cuando cumple los siguientes criterios:
+
+- Funciona correctamente sin errores.
+- Fue probada al menos una vez con datos simulados.
+- Quedó registrada en Git con un commit claro.
+- No expone datos personales reales ni credenciales sensibles.
+- Está documentada en la bitácora o README del proyecto.

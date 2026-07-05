@@ -1,0 +1,19 @@
+Backlog - Semana 10
+Solución comunitaria de veeduría y participación ciudadana
+
+Historias de usuario ordenadas de mayor a menor prioridad:
+
+1. (Alta prioridad)
+Como ciudadano quiero registrar una incidencia comunitaria para dejar evidencia clara del caso y hacer seguimiento responsable.
+
+2. (Alta prioridad)
+Como coordinador quiero recibir una alerta en Telegram cuando se registre un nuevo reporte para revisar el sistema oportunamente.
+
+3. (Media prioridad)
+Como miembro del equipo quiero consultar los reportes registrados para hacer seguimiento organizado y tomar decisiones informadas.
+
+4. (Media prioridad)
+Como usuario quiero generar un borrador de derecho de petición para orientar mi solicitud ante una entidad pública de forma clara y respetuosa.
+
+5. (Baja prioridad)
+Como equipo quiero revisar un dashboard de seguimiento para visualizar el estado de los reportes y peticiones registradas.

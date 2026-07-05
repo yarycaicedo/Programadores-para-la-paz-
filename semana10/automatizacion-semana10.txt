@@ -1,0 +1,30 @@
+Automatización con n8n y Telegram - Semana 10
+
+Flujo de automatización diseñado para seguimiento comunitario no sensible:
+
+1. ¿Qué evento activa el flujo?
+
+El flujo se activa cuando un ciudadano registra un nuevo reporte o incidencia
+en la plataforma comunitaria mediante el formulario de petición.
+
+2. ¿Qué mensaje se enviaría a Telegram?
+
+Mensaje: "Nuevo reporte recibido en la plataforma. Por favor revisar el sistema
+para hacer seguimiento. Fecha: [fecha del reporte]. Tipo: [tipo de petición]."
+
+3. ¿Qué información NO debería enviarse por seguridad?
+No debe enviarse por Telegram:
+- Nombres completos de los solicitantes.
+- Números de documento de identidad.
+- Direcciones de residencia.
+- Números de teléfono personales.
+- Correos electrónicos personales.
+- Tokens o claves de acceso.
+- Datos de salud o información sensible.
+- Información de menores de edad.
+- Acusaciones sin soporte contra personas reales.
+
+Flujo resumido:
+
+Formulario recibe datos → n8n procesa la solicitud → Telegram recibe
+notificación no sensible → Equipo revisa el sistema para hacer seguimiento.
