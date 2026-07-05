@@ -1,0 +1,43 @@
+Modelo de datos - Semana 11
+Plataforma comunitaria de participación ciudadana
+
+Entidad: Causa
+
+Campos principales:
+- id
+- titulo
+- descripcion
+- categoria
+- fecha_creacion
+- estado
+
+Propósito:
+Guardar las causas comunitarias que serán visibles en la plataforma para que
+los ciudadanos puedan conocerlas, apoyarlas y hacer seguimiento responsable.
+
+
+Entidad: Apoyo
+
+Campos principales:
+- id
+- causa_id
+- usuario
+- fecha
+
+Propósito:
+Registrar los apoyos que recibe cada causa para hacer seguimiento a la
+participación ciudadana y mostrar el nivel de respaldo de la comunidad.
+
+
+Entidad: Usuario
+
+Campos principales:
+- id
+- nombre_usuario
+- correo
+- rol
+- fecha_registro
+
+Propósito:
+Gestionar el acceso a la plataforma identificando a cada usuario y
+controlando qué funciones puede usar según su rol asignado.

@@ -1,0 +1,17 @@
+Autenticación de usuarios - Semana 11
+
+El login es el proceso que permite identificar a un usuario antes de darle
+acceso a ciertas funciones de la plataforma. Cuando un usuario ingresa su
+nombre y contraseña, el sistema verifica si esas credenciales son correctas
+y le otorga acceso según su rol.
+
+Algunas rutas deben estar protegidas porque pueden contener información
+privada, registros internos o acciones que no deberían estar disponibles
+para cualquier persona. Por ejemplo, crear o eliminar causas, ver registros
+de usuarios o administrar la plataforma son funciones que requieren
+autenticación previa.
+
+No se deben exponer públicamente contraseñas, documentos de identidad,
+teléfonos, direcciones, tokens, claves de API, datos de salud ni información
+sensible de los miembros de la comunidad. La protección de estos datos es
+fundamental para mantener la confianza de las personas que usan la plataforma.

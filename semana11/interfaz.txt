@@ -1,0 +1,24 @@
+Interfaz básica - Semana 11
+Plataforma comunitaria de participación ciudadana
+
+La interfaz tendría las siguientes secciones principales:
+
+1. Formulario para crear una causa comunitaria
+La sección principal tendría un formulario con campos de título, descripción,
+categoría y fecha para que cualquier usuario registrado pueda crear una nueva
+causa comunitaria de forma clara y organizada.
+
+2. Lista de causas disponibles
+La plataforma mostraría una lista de causas activas para que los ciudadanos
+puedan leerlas, conocer su descripción y decidir si desean apoyarlas.
+
+3. Botón de apoyo y contador
+Cada causa tendría un botón de apoyo y un contador visible que muestre
+cuántas personas la han apoyado, permitiendo ver el nivel de respaldo
+de la comunidad de forma transparente.
+
+4. Vista de seguimiento
+Habría una sección donde los usuarios puedan ver el estado de las causas
+que han apoyado y hacer seguimiento a su evolución.
+La interfaz debe ser clara, sencilla, accesible y no debe mostrar información
+privada de los usuarios como correos, documentos ni datos sensibles.
