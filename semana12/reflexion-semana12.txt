@@ -1,0 +1,26 @@
+Reflexión - Semana 12 - Yary Caicedo
+
+¿Qué aprendiste durante el curso sobre el uso de la tecnología para fortalecer 
+la participación ciudadana y la organización comunitaria?
+
+Durante este curso aprendí que la tecnología puede ser una herramienta
+poderosa para fortalecer la participación ciudadana cuando se usa con
+responsabilidad, claridad y propósito comunitario. Comprendí que construir
+una plataforma digital no es solo escribir código, sino pensar en las
+personas que la van a usar y en el impacto que puede tener en su comunidad.
+
+Aprendí a usar herramientas como Node.js, Express, GitHub y n8n para
+crear soluciones que automatizan procesos repetitivos y permiten que la
+información llegue rápidamente a quienes la necesitan. También entendí
+la importancia de proteger los datos de la comunidad, evitando exponer
+información sensible y usando archivos .env y .gitignore correctamente.
+
+El trabajo con metodologías ágiles me enseñó a organizar las tareas de
+manera prioritaria, avanzar en iteraciones pequeñas y documentar cada
+paso para que otras personas puedan continuar el proyecto. Git y GitHub
+fueron fundamentales para mantener la trazabilidad de todo el trabajo.
+
+Finalmente, entendí que la tecnología sola no transforma una comunidad.
+Lo que marca la diferencia es usarla con criterio, ética y enfoque en
+las necesidades reales de las personas, siempre protegiendo sus derechos
+y fortaleciendo su capacidad de participar, organizarse y ser escuchadas.

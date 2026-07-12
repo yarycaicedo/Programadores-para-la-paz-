@@ -1,0 +1,35 @@
+Modelo de datos - Semana 12 - Yary Caicedo
+Plataforma Petición en 3 Clics
+
+Entidad: Causa
+
+Campos principales:
+- id
+- titulo
+- descripcion
+- categoria
+- fecha_creacion
+- estado
+
+Propósito:
+
+Guardar las causas comunitarias que serán visibles en la plataforma para
+que los ciudadanos puedan conocerlas, apoyarlas y hacer seguimiento.
+Es la entidad principal del sistema y contiene la información pública
+de cada iniciativa comunitaria registrada.
+
+
+Entidad: Apoyo
+
+Campos principales:
+- id
+- causa_id
+- nombre
+- fecha
+
+Propósito:
+
+Registrar los apoyos que recibe cada causa para hacer seguimiento a la
+participación ciudadana y mostrar el nivel de respaldo de la comunidad.
+Se relaciona con la entidad Causa mediante el campo causa_id para
+identificar a qué iniciativa corresponde cada apoyo registrado.

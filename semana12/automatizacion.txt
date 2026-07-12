@@ -1,0 +1,33 @@
+Automatización con n8n y Telegram - Semana 12 - Yary Caicedo
+
+Flujo de automatización diseñado para el sistema Petición en 3 Clics:
+
+1. Evento que activa la automatización:
+
+El flujo se activa cuando un ciudadano registra una nueva causa en la
+plataforma o cuando una causa alcanza un número significativo de apoyos
+que amerita notificación al equipo coordinador.
+
+2. Mensaje que se envía a Telegram:
+
+"Nueva causa registrada en la plataforma Petición en 3 Clics.
+Por favor ingresa al sistema para revisar y hacer seguimiento.
+Fecha: [fecha del registro]. Categoría: [categoría de la causa]."
+
+3. Información que NO debe enviarse por seguridad:
+
+- Nombres completos de los ciudadanos que apoyaron.
+- Números de documento de identidad.
+- Direcciones de residencia.
+- Números de teléfono personales.
+- Correos electrónicos de los ciudadanos.
+- Tokens o claves de acceso al sistema.
+- Datos sensibles de salud o situación personal.
+- Información de menores de edad.
+- Comentarios privados o denuncias sin soporte.
+
+Flujo resumido:
+
+Ciudadano registra causa → Sistema guarda en base de datos →
+n8n detecta el evento → Telegram recibe notificación no sensible →
+Equipo revisa el sistema para hacer seguimiento responsable.

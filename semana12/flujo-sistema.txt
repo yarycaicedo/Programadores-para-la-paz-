@@ -1,0 +1,28 @@
+Flujo del sistema - Petición en 3 Clics
+Semana 12 - Yary Caicedo
+
+El sistema Petición en 3 Clics funciona de la siguiente manera:
+
+Paso 1: Un ciudadano accede a la plataforma y crea una causa comunitaria
+ingresando título, descripción y categoría mediante un formulario sencillo.
+
+Paso 2: La causa queda registrada en la base de datos del sistema con
+fecha, estado activo y un identificador único para hacer seguimiento.
+
+Paso 3: Otros ciudadanos pueden ver las causas disponibles en la plataforma
+y apoyarlas haciendo clic en el botón de apoyo correspondiente.
+
+Paso 4: El sistema cuenta automáticamente los apoyos recibidos por cada
+causa y actualiza el contador visible para toda la comunidad en tiempo real.
+
+Paso 5: Cuando la causa alcanza el número de apoyos requerido o el creador
+lo solicita, el sistema genera automáticamente un documento PDF con la
+petición formal incluyendo título, descripción, número de apoyos y fecha.
+
+Paso 6: n8n recibe la señal del sistema y envía una notificación automática
+por Telegram al equipo coordinador indicando que hay una nueva causa o
+que se generó un documento, sin incluir datos personales sensibles.
+
+Paso 7: El documento PDF generado puede ser descargado, compartido o
+presentado ante la entidad correspondiente como evidencia formal del
+respaldo comunitario a la causa.
